@@ -42,7 +42,7 @@ var statistic = document
         th.innerHTML = requests;
         row.appendChild(th);
 
-        var cellRequest = row.insertCell();
+        //var cellRequest = row.insertCell();
         var cell1 = row.insertCell(1);
         var cell2 = row.insertCell(2);
         var cell3 = row.insertCell(3);
